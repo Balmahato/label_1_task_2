@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    margin: 50px;
+}
+
+#colorButton {
+    padding: 90px 100px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#colorButton:hover {
+    background-color: #2980b9;
+}
+
+.hidden {
+    display: none;
+}
